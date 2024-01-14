@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\bin\Debug\net6.0\proyectofinal.exe
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\bin\Debug\net6.0\proyectofinal.deps.json
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\bin\Debug\net6.0\proyectofinal.runtimeconfig.json
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\bin\Debug\net6.0\proyectofinal.dll
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\bin\Debug\net6.0\proyectofinal.pdb
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\obj\Debug\net6.0\proyectofinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\obj\Debug\net6.0\proyectofinal.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\obj\Debug\net6.0\proyectofinal.AssemblyInfo.cs
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\obj\Debug\net6.0\proyectofinal.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\obj\Debug\net6.0\proyectofinal.dll
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\obj\Debug\net6.0\refint\proyectofinal.dll
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\obj\Debug\net6.0\proyectofinal.pdb
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\obj\Debug\net6.0\proyectofinal.genruntimeconfig.cache
+C:\Users\pc\Desktop\coderhouse\Curso c#\Proyecto final\proyectofinal\proyectofinal\obj\Debug\net6.0\ref\proyectofinal.dll
